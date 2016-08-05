@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<dataset>
+    <user iduser="1" user_login="aflaesch" user_password="root" user_name="Flaesch" user_firstname="Arnaud" user_birthdate="1993-06-01" user_mail="aflaesch@hotmail.com" user_token="205" />
+    <user iduser="2" user_login="aflaesch2" user_password="root2" user_name="Flaesch" user_firstname="Arnaud" user_birthdate="1993-06-01" user_mail="aflaesch@hotmail.com" user_token="106" />
+</dataset>
